@@ -1,0 +1,8 @@
+# ALMANCENAMIENTO DE DATOS
+
+Hay muchas bases de datos diferentes, pero podemos dividirlas 
+en dos tipos: bases de datos relacionales y bases de datos no relacionales
+(también conocidas como bases de datos NoSQL) . Mientras que
+las bases de datos relacionales almacenan información en tablas
+con columnas y filas, las bases de datos no relacionales pueden
+usar otros sistemas como pares clave-valor o un documento.

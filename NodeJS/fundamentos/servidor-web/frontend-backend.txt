@@ -1,0 +1,10 @@
+# FRONTEND-BACKEND
+
+El front-end de un sitio web o aplicación consta de HTML, CSS, JavaScript
+y activos estáticos enviados a un cliente, como un navegador web.
+
+# SERVIDOR  WEB
+
+Un servidor web es un proceso que se ejecuta en una computadora en algún
+lugar y que escucha las señales entrantes
+para obtener información a través de Internet y envía respuestas.

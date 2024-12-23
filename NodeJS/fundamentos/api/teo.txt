@@ -1,0 +1,9 @@
+# API
+
+API significa Interfaz de programación de aplicaciones y puede significar muchas cosas 
+diferentes, pero una API web es una colección de formas predefinidas o reglas para 
+interactuar con los datos de una aplicación web, a menudo a través de un ciclo de 
+solicitud-respuesta HTTP. A diferencia de la API web, Un cliente realiza cuando un 
+usuario navega a la URL de un sitio web; este tipo de solicitud indica cómo le gustaría 
+interactuar con los datos de una aplicación web (crear datos nuevos, leer datos existentes, 
+actualizar datos existentes o eliminar datos existentes) y recibe algunos datos como respuesta.

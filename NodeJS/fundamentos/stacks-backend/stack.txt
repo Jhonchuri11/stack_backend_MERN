@@ -1,0 +1,14 @@
+# STACKS
+
+A diferencia del front-end, que debe crearse con HTML, CSS y 
+JavaScript, existe una gran flexibilidad en cuanto a las tecnologías 
+que se pueden utilizar para crear el back-end de una aplicación web. 
+Los desarrolladores pueden construir back-ends en muchos lenguajes 
+diferentes, como PHP, Java, JavaScript, Python y más.
+
+# EXAMPLE: 
+
+Por ejemplo, la pila MEAN es una pila de tecnología para crear aplicaciones web que 
+utiliza MongoDB , Express.js , AngularJS y Node.js : MongoDB se utiliza como base 
+de datos, Node.js con Express.js para el resto del back-end y Angular se utiliza 
+como marco de front-end.

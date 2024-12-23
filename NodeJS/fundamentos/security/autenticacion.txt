@@ -1,0 +1,7 @@
+# AUTENTICACIÓN
+
+La autenticación es el proceso de validar la identidad de un usuario. 
+Una técnica de autenticación es utilizar inicios de sesión con nombres 
+de usuario y contraseñas. Estas credenciales deben almacenarse de forma 
+segura en el back-end de una base de datos y verificarse en cada visita. 
+Las aplicaciones web también pueden utilizar recursos externos para la autenticación.

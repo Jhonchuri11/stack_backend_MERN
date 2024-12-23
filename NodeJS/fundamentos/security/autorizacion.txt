@@ -1,0 +1,7 @@
+# AUTORIZACIÓN
+
+Los controles de autorización controlan qué usuarios tienen acceso 
+a qué recursos y acciones. Algunas vistas de la aplicación, como la 
+página para editar un perfil personal de redes sociales, solo son 
+accesibles para ese usuario. Otras actividades, como eliminar una 
+publicación, suelen estar restringidas de manera similar.
